@@ -1,0 +1,20 @@
+{
+  "name": "practica1",
+  "version": "1.0.0",
+  "description": "diferentes resultados segun la palabra enviada",
+  "keywords": [
+    "express",
+    "js",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Lluvia Flores",
+  "type": "commonjs",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
